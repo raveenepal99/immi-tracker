@@ -33,8 +33,6 @@
     data() {
       return {
         appointments: [
-          { date: "2025-02-10", time: "10:00 AM", details: "Dentist appointment" },
-          { date: "2025-02-12", time: "2:00 PM", details: "Meeting with client" },
         ],
         newAppointment: { date: "", time: "", details: "" },
       };
